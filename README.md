@@ -14,7 +14,7 @@ continental United States — a 150-mile corridor used for thousands of years.
   an active wildlife management challenge in the region
 
 ## Tools & Methods
-- QGIS 3.x
+- QGIS 3.34
 - MoveBank telemetry data (Beck & Hennig, University of Wyoming)
 - Points converted to individual path vectors, grouped by animal ID
 - Styled by individual for corridor density visualization
